@@ -16,7 +16,7 @@ Python Session Related Stuff
 # Juniors:
 
 <p>
-  Code the following programs so that we'll know your skill level as well.
+  Code the following programs so that we'll know your skill level as well. Make sure your program accepts input at command line.
   <ol>
     <li>Write a python script to convert text to morse code and vice-versa </li>
     <li>Write a python script to check for balanced parantheses, which includes <>, {}, [], (). </li>
